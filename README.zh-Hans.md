@@ -563,6 +563,9 @@ Packing 4 channels of data into a texture (RGBA) is not recommended except for a
 | Sound Cue               | A_         | _Cue       |                                  |
 | Sound Mix               | Mix_       |            |                                  |
 | Sound Wave              | A_         |            |                                  |
+| Wwise Event             | WE_         |            |                                 |
+| Wwise Rtpc              | WR_         |            |                                 |
+| Wwise Switch Value      | WS_         |            |                                 |
 
 <a name="anc-ui"></a>
 <a name="1.2.11"></a>
